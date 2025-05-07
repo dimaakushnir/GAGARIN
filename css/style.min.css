@@ -238,7 +238,7 @@ body {
   }
 }
 .item-reviews-block__main {
-  flex: 0 1 600px;
+  flex: 0 1 610px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
